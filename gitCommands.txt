@@ -1,0 +1,25 @@
+﻿qq Workspace —> Staging Area —>Repository
+
+git confiq —-global user.name “@username” user.email “@Email”   = set User and Email
+
+git confiq -l = to check user status
+
+version - git —-version  = check version of Git
+
+cd Desktop/Git_Workspace = change to specific directory
+
+ls -la =list all files in the directory
+
+git init = initialize Git
+
+rm -rf .git =remove git
+
+git status= check status of git
+
+git add test.java = to add for Git for Staging Area
+
+git reset test.java = to reset Git
+
+git Commit -m “Initial Commit” = for commiting selected file
+
+git log = check logs of commits
